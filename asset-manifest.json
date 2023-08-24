@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/capture/static/js/main.af53b704.js",
+    "main.js": "/capture/static/js/main.c89a459b.js",
     "static/media/good-times2.jpg": "/capture/static/media/good-times2.4ea1be179615d4b3ab59.jpg",
     "static/media/goodtimes-small.png": "/capture/static/media/goodtimes-small.94ab060d85c99adbb13f.png",
     "static/media/the-racer2.jpg": "/capture/static/media/the-racer2.580f15cd29971622e0d1.jpg",
@@ -14,9 +14,9 @@
     "static/media/money.svg": "/capture/static/media/money.2e18c561a4e6c930cf9f5dad8d44802c.svg",
     "static/media/diaphragm.svg": "/capture/static/media/diaphragm.fb1e5b13ade6e4d1c1c3e0f93229b50d.svg",
     "index.html": "/capture/index.html",
-    "main.af53b704.js.map": "/capture/static/js/main.af53b704.js.map"
+    "main.c89a459b.js.map": "/capture/static/js/main.c89a459b.js.map"
   },
   "entrypoints": [
-    "static/js/main.af53b704.js"
+    "static/js/main.c89a459b.js"
   ]
 }
