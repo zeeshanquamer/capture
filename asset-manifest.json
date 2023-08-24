@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.67639aff.js",
-    "static/media/good-times2.jpg": "/static/media/good-times2.4ea1be179615d4b3ab59.jpg",
-    "static/media/goodtimes-small.png": "/static/media/goodtimes-small.94ab060d85c99adbb13f.png",
-    "static/media/the-racer2.jpg": "/static/media/the-racer2.580f15cd29971622e0d1.jpg",
-    "static/media/athlete-small.png": "/static/media/athlete-small.9c7a85d428db170f0302.png",
-    "static/media/theracer-small.png": "/static/media/theracer-small.51874213d9ada354f58f.png",
-    "static/media/athlete2.png": "/static/media/athlete2.b216a5ad61641fa48f20.png",
-    "static/media/home2.png": "/static/media/home2.a65a4256898b1604faa8.png",
-    "static/media/home1.png": "/static/media/home1.9836de697da07909472a.png",
-    "static/media/clock.svg": "/static/media/clock.ddec723d7599e5fc1c64ee449e1875c4.svg",
-    "static/media/teamwork.svg": "/static/media/teamwork.f9f4ff96fac8b175c67c4c405de1e19b.svg",
-    "static/media/money.svg": "/static/media/money.2e18c561a4e6c930cf9f5dad8d44802c.svg",
-    "static/media/diaphragm.svg": "/static/media/diaphragm.fb1e5b13ade6e4d1c1c3e0f93229b50d.svg",
-    "index.html": "/index.html",
-    "main.67639aff.js.map": "/static/js/main.67639aff.js.map"
+    "main.js": "/capture/static/js/main.af53b704.js",
+    "static/media/good-times2.jpg": "/capture/static/media/good-times2.4ea1be179615d4b3ab59.jpg",
+    "static/media/goodtimes-small.png": "/capture/static/media/goodtimes-small.94ab060d85c99adbb13f.png",
+    "static/media/the-racer2.jpg": "/capture/static/media/the-racer2.580f15cd29971622e0d1.jpg",
+    "static/media/athlete-small.png": "/capture/static/media/athlete-small.9c7a85d428db170f0302.png",
+    "static/media/theracer-small.png": "/capture/static/media/theracer-small.51874213d9ada354f58f.png",
+    "static/media/athlete2.png": "/capture/static/media/athlete2.b216a5ad61641fa48f20.png",
+    "static/media/home2.png": "/capture/static/media/home2.a65a4256898b1604faa8.png",
+    "static/media/home1.png": "/capture/static/media/home1.9836de697da07909472a.png",
+    "static/media/clock.svg": "/capture/static/media/clock.ddec723d7599e5fc1c64ee449e1875c4.svg",
+    "static/media/teamwork.svg": "/capture/static/media/teamwork.f9f4ff96fac8b175c67c4c405de1e19b.svg",
+    "static/media/money.svg": "/capture/static/media/money.2e18c561a4e6c930cf9f5dad8d44802c.svg",
+    "static/media/diaphragm.svg": "/capture/static/media/diaphragm.fb1e5b13ade6e4d1c1c3e0f93229b50d.svg",
+    "index.html": "/capture/index.html",
+    "main.af53b704.js.map": "/capture/static/js/main.af53b704.js.map"
   },
   "entrypoints": [
-    "static/js/main.67639aff.js"
+    "static/js/main.af53b704.js"
   ]
 }
